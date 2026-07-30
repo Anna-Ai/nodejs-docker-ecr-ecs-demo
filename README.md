@@ -31,6 +31,7 @@ The project is divided into three major sections:
 If all configurations are correct, the application will be accessible from both:
 
    •	Command Prompt (using curl)
+   
     Run       curl http://localhost:3000   
     Display   Hello from ECS EC2 Docker Demo!
     
