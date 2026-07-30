@@ -38,7 +38,7 @@ If all configurations are correct, the application will be accessible from both:
     Display   Hello from ECS EC2 Docker Demo!
     
   •	A web browser via the EC2 instance's public IPv4 address, e.g:
-    http://<EC2-Public-IPv4>:3000
+    http://EC2-Public-IPv4:3000
     
     Enter http://18.119.13.118:3000 into the web browser's address bar. The following message should be displayed:
     Hello from ECS EC2 Docker Demo!
